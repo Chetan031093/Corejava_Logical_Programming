@@ -1,5 +1,6 @@
 /*
  * Logical programme on pre and post unary operator. 
+ * output
  * progrrame started
  * value of i is :6
  * value of j is :23
