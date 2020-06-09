@@ -1,6 +1,11 @@
 
 /*
- * Logical programme on pre unary operator. 
+ * Logical programme on pre unary operator.
+ * output
+ * progrrame started
+ * value of i is :5
+ * value of j is :21
+ * progrrame ended
  */
 public class Lp3
 {
