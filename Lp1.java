@@ -1,5 +1,10 @@
 /*
  * Logical programme on post unary operator. 
+ * output
+ * progrrame started
+ * value of i is :3
+ * value of j is :7
+ * progrrame ended
  */
 public class Lp1 
 {
